@@ -12,6 +12,7 @@ As described in your welcome email, to get started with the beta:
 
 	* [Scenario: LocalCart seeks to boost sales by better understanding their customers](https://apsportal.ibm.com/docs/content/getting-started/wdp-beta-scenario.html), or
 	* [Scenario: Great Outdoors Company makes data easy to share while governing access](https://apsportal.ibm.com/docs/content/getting-started/dm-beta-scenario.html).
+	<!-- * [Scenario: Exploring heating complaints in Manhattan using IBM Analytics Engine](https://apsportal.ibm.com/docs/content/getting-started/iae-beta-scenario.html)-->
 
 ## If you get stuck or need assistance
 
