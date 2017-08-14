@@ -11,8 +11,8 @@ As described in your welcome email, to get started with the beta:
 1. After signing in to [IBM Data Science Experience](https://datascience.ibm.com/), get started by reading [Get started with Beta](https://apsportal.ibm.com/docs/content/getting-started/get-started-beta.html). Then follow the prerequisites and set up instructions in either:
 
 	* [Scenario: LocalCart seeks to boost sales by better understanding their customers](https://apsportal.ibm.com/docs/content/getting-started/wdp-beta-scenario.html), or
-	* [Scenario: Great Outdoors Company makes data easy to share while governing access](https://apsportal.ibm.com/docs/content/getting-started/dm-beta-scenario.html).
-	<!-- * [Scenario: Exploring heating complaints in Manhattan using IBM Analytics Engine](https://apsportal.ibm.com/docs/content/getting-started/iae-beta-scenario.html)-->
+	* [Scenario: Great Outdoors Company makes data easy to share while governing access](https://apsportal.ibm.com/docs/content/getting-started/dc-beta-scenario.html).
+	* [Scenario: Exploring heating complaints in Manhattan using IBM Analytics Engine](https://apsportal.ibm.com/docs/content/getting-started/iae-beta-scenario.html)
 
 ## If you get stuck or need assistance
 
