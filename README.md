@@ -14,7 +14,7 @@ To get started with the beta:
 	* [Scenario: Great Outdoors Company makes data easy to share while governing access](https://apsportal.ibm.com/docs/content/getting-started/dc-beta-scenario.html).
 	<!-- * [Scenario: Exploring heating complaints in Manhattan using IBM Analytics Engine](https://apsportal.ibm.com/docs/content/getting-started/iae-beta-scenario.html) -->
 
-We've created sample beta scenarios and notebooks that you can use as functional tutorials to try out all of the features of the beta. The notebooks and sample data are stored in this GitHub repository. [Get started with Beta](https://apsportal.ibm.com/docs/content/getting-started/get-started-beta.html) how to use them with Watson Data Platform.
+We've created sample beta scenarios and notebooks that you can use as functional tutorials to try out all of the features of the beta. The notebooks and sample data are stored in this GitHub repository. [Get started with Beta](https://apsportal.ibm.com/docs/content/getting-started/get-started-beta.html) describes how to use the notebooks within Watson Data Platform.
 
 
 ## If you get stuck or need assistance
