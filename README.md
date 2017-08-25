@@ -12,7 +12,7 @@ To get started with the beta:
 
 	* [Scenario: LocalCart seeks to boost sales by better understanding their customers](https://apsportal.ibm.com/docs/content/getting-started/wdp-beta-scenario.html), or
 	* [Scenario: Great Outdoors Company makes data easy to share while governing access](https://apsportal.ibm.com/docs/content/getting-started/dc-beta-scenario.html).
-	<!-- * [Scenario: Exploring heating complaints in Manhattan using IBM Analytics Engine](https://apsportal.ibm.com/docs/content/getting-started/iae-beta-scenario.html) -->
+	* [Scenario: Exploring heating complaints in Manhattan using IBM Analytics Engine](https://apsportal.ibm.com/docs/content/getting-started/iae-beta-scenario.html)
 
 We've created sample beta scenarios and notebooks that you can use as functional tutorials to try out all of the features of the beta. The notebooks and sample data are stored in this GitHub repository. [Get started with Beta](https://apsportal.ibm.com/docs/content/getting-started/get-started-beta.html) describes how to use the notebooks within Watson Data Platform.
 
