@@ -5,6 +5,7 @@ Welcome to the IBM Watson Data Platform Beta Program. If you've reached this pag
 To get started with the beta:
 
 1. Sign in to [IBM Data Science Experience](https://datascience.ibm.com/) using your IBM id (Bluemix Account) and select WDP Beta as your Organization during sign in. To read how to get started, you **must** be signed in.
+(IBM employees do not need to select the Organization.)
 
 1. After signing in, get started by reading [Get started with Beta](https://apsportal.ibm.com/docs/content/getting-started/get-started-beta.html). 
 
