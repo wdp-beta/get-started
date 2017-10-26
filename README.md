@@ -1,6 +1,8 @@
 # get-started
 
-Welcome to the IBM Watson Data Platform Beta Program. If you've reached this page and you're not a beta participant, please contact paul_read@uk.ibm.com and emmadawson@uk.ibm.com.
+The IBM Watson Data Platform Beta Program is closed. Learn about Watson Data Platform at https://www.ibm.com/analytics/us/en/watson-data-platform/.
+
+<!--If you've reached this page and you're not a beta participant, please contact paul_read@uk.ibm.com and emmadawson@uk.ibm.com.
 
 To get started with the beta:
 
@@ -21,4 +23,5 @@ We've created sample beta scenarios and notebooks that you can use as functional
 ## If you get stuck or need assistance
 
 Start a live chat with us between 8AM and 8PM Eastern time. Visit [datascience.ibm.com](https://datascience.ibm.com/) and open the chat box from the bottom right of any page.
+-->
 
