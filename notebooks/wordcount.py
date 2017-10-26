@@ -24,6 +24,6 @@ if __name__ == "__main__":
   charCounts = filtered.flatMap(lambda pair:pair[0]).map(lambda c: c).map(lambda c: (c, 1)).reduceByKey(lambda v1,v2:v1 +v2)
 
   list = charCounts.collect()
-  f1=open('/home/clsadmin/output.txt', 'w+')
+  f1=open('/home/wce/clsadmin/output.txt', 'w+')
   f1.write(repr(list)[1:-1])
   f1.close()
