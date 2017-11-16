@@ -1,1 +1,0 @@
-## Beta scenario streaming pipelines
